@@ -1,0 +1,4 @@
+numpy
+# tensorflow==12.0.0
+flask
+werkzeug
